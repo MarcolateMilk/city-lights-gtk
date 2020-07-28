@@ -8,6 +8,7 @@ I use Atom together with the City Lights theme since years, because the color pa
 
 * This theme works with GTK+ 3 ONLY
 * This theme was made for i3, I don't plan on testing/supporting other window managers or desktop environments
+* You can find my icon theme [here](https://github.com/MarcolateMilk/city-lights-icons)
 
 ## Installation
 
