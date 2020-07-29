@@ -4,6 +4,8 @@ GTK+ 3 theme inspired by the City Lights theme for Atom.
 
 I use Atom together with the City Lights theme since years, because the color palette is really nice and soothing for the eyes. However, I couldn't find a GTK theme that works nicely with this theme, so I made my own!
 
+![Showcase picture](/pictures/atom.png)
+
 ## Notes
 
 * This theme works with GTK+ 3 ONLY
