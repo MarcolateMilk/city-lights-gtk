@@ -34,10 +34,18 @@ gtk-theme-name = City-Lights
 gtk-application-prefer-dark-theme = true
 ```
 
-If you are using a tiling window manager like i3, I recommend disabling window decorations too:
+### Optional configuration
+
+If you are using a tiling window manager like i3, I recommend disabling window decorations:
 
 ```ini
 gtk-decoration-layout = menu
+```
+
+Install `Fira Sans` for your distribution and change font:
+
+```ini
+gtk-font-name = Fira Sans 11
 ```
 
 ## Credits
